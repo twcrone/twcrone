@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning Scala
-- 💞️ I’m looking to collaborate on ThreeJS (or other 3d animation libraries)
+- 🌱 I’m currently learning LibGDX
+- 💞️ I’m looking to collaborate on LibGDX 3D animations
 - 📫 You can reach me on Twitter as twcrone
