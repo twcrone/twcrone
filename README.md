@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
-- 👀 I’m interested in functional programming
-- 🌱 I’m currently learning LibGDX
-- 💞️ I’m looking to collaborate on LibGDX 3D animations
+- 👀 I’m interested in system observability
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on command line tools
 - 📫 You can reach me on Twitter as twcrone
