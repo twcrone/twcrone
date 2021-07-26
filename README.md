@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
-- 👀 I’m interested in system observability
+- 👀 I’m interested in distributed systems and observability
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on command line tools
 - 📫 You can reach me on Twitter as twcrone
