@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
-- 👀 I’m interested in distributed systems and observability
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on 2d games and command line tools
+- 👀 I’m interested in distributed systems, observability and 3d animations
+- 🌱 I’m currently learning Rust and relearning ThreeJS
+- 💞️ I’m looking to collaborate on rustlings and 3d web games
 - 📫 You can reach me on Twitter as twcrone
