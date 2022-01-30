@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
 - 👀 I’m interested in distributed systems, observability and 3d animations
-- 🌱 I’m currently learning Crystal
-- 💞️ I’m looking to collaborate on Crystal command line tools
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python algorithms
 - 📫 You can reach me on Twitter as twcrone
