@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
 - 👀 I’m interested in distributed systems and observability
-- 🌱 I’m currently learning low level Java
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on high performance systems
 - 📫 You can reach me on Twitter as twcrone
