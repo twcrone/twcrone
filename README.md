@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
-- 👀 I’m interested in distributed systems and observability
-- 🌱 I’m currently learning Kotlin Native
-- 💞️ I’m looking to collaborate on high performance systems
+- 👀 I’m interested in distributed systems and system programming
+- 🌱 I’m currently learning Rust (again)
+- 💞️ I’m looking to collaborate on anything not on the JVM
 - 📫 You can reach me on Twitter as twcrone
