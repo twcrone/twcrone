@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twcrone
-- 👀 I’m interested in distributed systems and system programming
+- 👀 I’m interested in distributed systems
 - 🌱 I’m currently learning Rust (again)
-- 💞️ I’m looking to collaborate on anything not on the JVM
+- 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me on Twitter as twcrone
